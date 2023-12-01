@@ -7,13 +7,19 @@
 .recipes .child {
     font-size: 36px;
     color: lightcoral;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
 }
 
+.menu {
+    margin: auto;
+    text-align: center;
+    background-color: beige;
+}
 .link {
-    color: lightgreen;
+    color: black;
     font-family: Futura, sans-serif;
+    text-decoration: none;
 }
 
-#sushi {
-    color: salmon;
-}
