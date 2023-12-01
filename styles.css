@@ -1,0 +1,19 @@
+#SiteTitle {
+    text-align: center;
+    color: lightblue;
+    font-family: Futura, "Times New Roman", sans-serif;
+}
+
+.recipes .child {
+    font-size: 36px;
+    color: lightcoral;
+}
+
+.link {
+    color: lightgreen;
+    font-family: Futura, sans-serif;
+}
+
+#sushi {
+    color: salmon;
+}
